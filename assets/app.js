@@ -17,6 +17,7 @@ const state = {
   waytoagiData: null,
   sourceStatus: null,
   generatedAt: null,
+  dailyBrief: null,
 };
 
 const statsEl = document.getElementById("stats");
@@ -413,6 +414,65 @@ function clusterBoleEvents(rows) {
   });
 }
 
+function storyTimeMs(story, key) {
+  const iso = story && story[key];
+  if (!iso) return 0;
+  const d = new Date(iso);
+  return Number.isNaN(d.getTime()) ? 0 : d.getTime();
+}
+
+function storyScore(story) {
+  const raw = (story && (story.importance_score ?? story.score ?? story.importance)) || 0;
+  const score = Number(raw);
+  if (!Number.isFinite(score) || score <= 0) return 0;
+  return Math.round(score <= 1 ? score * 100 : score);
+}
+
+function storyImportanceTone(label) {
+  if (!label) return "watch";
+  if (label.includes("重大")) return "hot";
+  if (label.includes("官方")) return "official";
+  if (label.includes("多源")) return "strong";
+  if (label.includes("行业")) return "watch";
+  return "watch";
+}
+
+function storyPrimaryTitleText(story) {
+  const primary = (story && story.primary_item) || {};
+  const bilingual = String(primary.title || (story && story.title) || "").trim();
+  if (bilingual.includes(" / ")) {
+    const [zh, en] = bilingual.split(" / ");
+    return (zh || en || bilingual).trim();
+  }
+  return bilingual || "未命名更新";
+}
+
+function storyPrimaryEnText(story) {
+  const primary = (story && story.primary_item) || {};
+  const bilingual = String(primary.title || (story && story.title) || "").trim();
+  if (bilingual.includes(" / ")) {
+    const [, en] = bilingual.split(" / ");
+    return (en || "").trim();
+  }
+  return "";
+}
+
+function storySourceCount(story) {
+  const sources = Array.isArray(story && story.sources) ? story.sources : [];
+  const explicit = Number(story && story.duplicate_count);
+  if (Number.isFinite(explicit) && explicit > 0) return explicit;
+  return Math.max(1, sources.length);
+}
+
+function formatStoryTime(story) {
+  const earliest = story.earliest_at;
+  const latest = story.latest_at;
+  if (latest && earliest && latest !== earliest) {
+    return { latest, earliest };
+  }
+  return { latest: latest || earliest, earliest: null };
+}
+
 function pickBoleItems(items) {
   const ranked = [...items]
     .map((item, index) => ({ item, index, score: scorePercent(item) }))
@@ -516,13 +576,134 @@ function buildBoleTimelineRow(row, rank) {
   return link;
 }
 
-function renderBolePicks() {
-  if (!bolePicksListEl || !bolePicksMetaEl) return;
-  const picks = pickBoleItems(state.itemsAi || []);
+function buildStoryCard(story, rank) {
+  const link = document.createElement("a");
+  link.className = "story-row";
+  const primary = story.primary_item || {};
+  link.href = primary.url || story.primary_url || story.url || "#";
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+
+  const time = document.createElement("div");
+  time.className = "story-time";
+  const { latest, earliest } = formatStoryTime(story);
+  const latestEl = document.createElement("span");
+  latestEl.className = "story-time-latest";
+  latestEl.textContent = fmtTime(latest);
+  time.appendChild(latestEl);
+  if (earliest) {
+    const rangeEl = document.createElement("span");
+    rangeEl.className = "story-time-range";
+    rangeEl.textContent = `起 ${fmtTime(earliest)}`;
+    time.appendChild(rangeEl);
+  }
+  const rankEl = document.createElement("span");
+  rankEl.className = "story-rank";
+  rankEl.textContent = `#${rank}`;
+  time.appendChild(rankEl);
+
+  const body = document.createElement("div");
+  body.className = "story-body";
+
+  const meta = document.createElement("div");
+  meta.className = "story-meta";
+  if (story.importance_label) {
+    const imp = document.createElement("span");
+    imp.className = `story-importance ${storyImportanceTone(story.importance_label)}`;
+    imp.textContent = story.importance_label;
+    meta.appendChild(imp);
+  }
+  const sourceCount = storySourceCount(story);
+  const countEl = document.createElement("span");
+  countEl.className = "story-count";
+  countEl.textContent = `${sourceCount} 个来源`;
+  meta.appendChild(countEl);
+  const score = storyScore(story);
+  if (score > 0) {
+    const scoreEl = document.createElement("strong");
+    scoreEl.className = "story-score";
+    scoreEl.innerHTML = `<span>${score}</span><small>分</small>`;
+    meta.appendChild(scoreEl);
+  }
+  body.appendChild(meta);
+
+  const sources = Array.isArray(story.sources) ? story.sources : [];
+  if (sources.length) {
+    const sourcesEl = document.createElement("div");
+    sourcesEl.className = "story-sources";
+    sources.slice(0, 6).forEach((src) => {
+      const tag = document.createElement("span");
+      const kind = sourceKind(src.site_id);
+      tag.className = `story-source-chip kind-${kind.tone}`;
+      tag.textContent = src.site_name || src.source || "来源";
+      sourcesEl.appendChild(tag);
+    });
+    if (sources.length > 6) {
+      const more = document.createElement("span");
+      more.className = "story-source-more";
+      more.textContent = `+${sources.length - 6}`;
+      sourcesEl.appendChild(more);
+    }
+    body.appendChild(sourcesEl);
+  }
+
+  const title = document.createElement("div");
+  title.className = "story-title";
+  const primaryTitle = storyPrimaryTitleText(story);
+  const enTitle = storyPrimaryEnText(story);
+  if (enTitle && enTitle !== primaryTitle) {
+    const zh = document.createElement("span");
+    zh.className = "story-title-zh";
+    zh.textContent = primaryTitle;
+    const sub = document.createElement("span");
+    sub.className = "story-title-en";
+    sub.textContent = enTitle;
+    title.append(zh, sub);
+  } else {
+    title.textContent = primaryTitle;
+  }
+  body.appendChild(title);
+
+  link.append(time, body);
+  return link;
+}
+
+function renderBoleBrief(stories) {
   bolePicksListEl.innerHTML = "";
   bolePicksListEl.className = "bole-board";
+
+  const sorted = [...stories].sort((a, b) => {
+    const aLatest = storyTimeMs(a, "latest_at") || storyTimeMs(a, "earliest_at");
+    const bLatest = storyTimeMs(b, "latest_at") || storyTimeMs(b, "earliest_at");
+    if (aLatest !== bLatest) return bLatest - aLatest;
+    return storyScore(b) - storyScore(a);
+  });
+
+  const list = document.createElement("div");
+  list.className = "bole-compact-list bole-timeline";
+  sorted.forEach((story, index) => {
+    list.appendChild(buildStoryCard(story, index + 1));
+  });
+  bolePicksListEl.appendChild(list);
+
+  const topScore = Math.max(...sorted.map((s) => storyScore(s)));
+  const generatedAt = state.dailyBrief && state.dailyBrief.generated_at;
+  const meta = topScore > 0
+    ? `故事时间线 · ${fmtNumber(sorted.length)} 条 · 最高 ${topScore} 分`
+    : `故事时间线 · ${fmtNumber(sorted.length)} 条`;
+  bolePicksMetaEl.textContent = generatedAt ? `${meta} · ${fmtTime(generatedAt)}` : meta;
+}
+
+function renderBoleFallback(picks) {
+  bolePicksListEl.innerHTML = "";
+  bolePicksListEl.className = "bole-board";
+
+  const note = document.createElement("div");
+  note.className = "bole-fallback-note";
+  note.textContent = "故事合并数据暂未生成，先展示伯乐候选信号。";
+  bolePicksListEl.appendChild(note);
+
   if (!picks.length) {
-    bolePicksMetaEl.textContent = "暂无评分数据";
     const empty = document.createElement("div");
     empty.className = "bole-empty";
     empty.textContent = "当前数据里没有可展示的评分字段。";
@@ -530,21 +711,34 @@ function renderBolePicks() {
     return;
   }
 
-  const topScore = Math.max(...picks.map((row) => row.score));
   const timelinePicks = [...picks].sort((a, b) => {
     const byTime = timelineMs(b.item) - timelineMs(a.item);
     if (byTime !== 0) return byTime;
     return b.score - a.score || a.index - b.index;
   });
-  bolePicksMetaEl.textContent = `按时间倒序 · Top ${fmtNumber(picks.length)} · 最高 ${topScore} 分`;
-
   const list = document.createElement("div");
   list.className = "bole-compact-list";
   timelinePicks.forEach((row, index) => {
     list.appendChild(buildBoleTimelineRow(row, index + 1));
   });
-
   bolePicksListEl.appendChild(list);
+}
+
+function renderBolePicks() {
+  if (!bolePicksListEl || !bolePicksMetaEl) return;
+  bolePicksListEl.innerHTML = "";
+  bolePicksListEl.className = "bole-board";
+
+  const brief = state.dailyBrief;
+  const items = brief && Array.isArray(brief.items) ? brief.items : [];
+  if (items.length) {
+    renderBoleBrief(items);
+    return;
+  }
+
+  const picks = pickBoleItems(state.itemsAi || []);
+  bolePicksMetaEl.textContent = "故事合并数据暂未生成 · 伯乐候选信号";
+  renderBoleFallback(picks);
 }
 
 function renderItemNode(item) {
@@ -889,12 +1083,25 @@ async function loadSourceStatusData() {
   return res.json();
 }
 
+async function loadDailyBriefData() {
+  const res = await fetch(`./data/daily-brief.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
+  return res.json();
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
+    loadDailyBriefData(),
   ]);
+
+  if (briefResult.status === "fulfilled") {
+    state.dailyBrief = briefResult.value;
+  } else {
+    state.dailyBrief = null;
+  }
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
