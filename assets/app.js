@@ -206,6 +206,14 @@ function currentSiteStats() {
   return computeSiteStats(state.allDedup ? (state.itemsAll || []) : (state.itemsAllRaw || []));
 }
 
+function siteRatioText(siteStats) {
+  const count = Number(siteStats.count || 0);
+  const raw = Number(siteStats.raw_count ?? siteStats.count ?? 0);
+  if (!raw) return `${fmtNumber(count)} 条`;
+  if (raw === count) return `${fmtNumber(count)} 条`;
+  return `${fmtNumber(count)}/${fmtNumber(raw)} · ${Math.round((count / raw) * 100)}%AI`;
+}
+
 function renderSiteFilters() {
   const stats = currentSiteStats();
 
@@ -213,8 +221,7 @@ function renderSiteFilters() {
   stats.forEach((s) => {
     const opt = document.createElement("option");
     opt.value = s.site_id;
-    const raw = s.raw_count ?? s.count;
-    opt.textContent = `${s.site_name} (${s.count}/${raw})`;
+    opt.textContent = `${s.site_name} (${siteRatioText(s)})`;
     siteSelectEl.appendChild(opt);
   });
   siteSelectEl.value = state.siteFilter;
@@ -233,8 +240,7 @@ function renderSiteFilters() {
   stats.forEach((s) => {
     const btn = document.createElement("button");
     btn.className = `pill ${state.siteFilter === s.site_id ? "active" : ""}`;
-    const raw = s.raw_count ?? s.count;
-    btn.textContent = `${s.site_name} ${s.count}/${raw}`;
+    btn.textContent = `${s.site_name} ${siteRatioText(s)}`;
     btn.onclick = () => {
       state.siteFilter = s.site_id;
       renderSiteFilters();
@@ -692,6 +698,7 @@ function renderBoleBrief(stories) {
     ? `故事时间线 · ${fmtNumber(sorted.length)} 条 · 最高 ${topScore} 分`
     : `故事时间线 · ${fmtNumber(sorted.length)} 条`;
   bolePicksMetaEl.textContent = generatedAt ? `${meta} · ${fmtTime(generatedAt)}` : meta;
+  document.dispatchEvent(new CustomEvent("aiRadar:briefRendered"));
 }
 
 function renderBoleFallback(picks) {
@@ -722,6 +729,7 @@ function renderBoleFallback(picks) {
     list.appendChild(buildBoleTimelineRow(row, index + 1));
   });
   bolePicksListEl.appendChild(list);
+  document.dispatchEvent(new CustomEvent("aiRadar:briefRendered"));
 }
 
 function renderBolePicks() {
@@ -748,6 +756,11 @@ function renderItemNode(item) {
   const categoryEl = node.querySelector(".category");
   categoryEl.textContent = kind.label;
   categoryEl.classList.add(`kind-${kind.tone}`);
+  const score = scorePercent(item);
+  const tagEl = document.createElement("span");
+  tagEl.className = `ai-tag ${scoreTone(score)}`;
+  tagEl.textContent = `${labelText(item)} · ${score || "?"}分`;
+  categoryEl.insertAdjacentElement("afterend", tagEl);
   node.querySelector(".source").textContent = `分区: ${item.source}`;
   node.querySelector(".time").textContent = fmtTime(item.published_at || item.first_seen_at);
 
@@ -870,10 +883,10 @@ function renderList() {
 
   if (state.siteFilter) {
     renderGroupedBySource(filtered);
-    return;
+  } else {
+    renderGroupedBySiteAndSource(filtered);
   }
-
-  renderGroupedBySiteAndSource(filtered);
+  document.dispatchEvent(new CustomEvent("aiRadar:listRendered"));
 }
 
 function waytoagiViews(waytoagi) {
