@@ -11,7 +11,7 @@
         text="Hermes Agent Releases"
         title="Hermes Agent Releases"
         type="rss"
-        xmlUrl="https://github.com/nousresearch/hermes/releases.atom"
+        xmlUrl="https://github.com/NousResearch/hermes-agent/releases.atom"
         htmlUrl="https://github.com/nousresearch/hermes"
       />
     </outline>
@@ -29,7 +29,7 @@
         text="GitHub AI &amp; ML Blog"
         title="GitHub AI &amp; ML"
         type="rss"
-        xmlUrl="https://github.blog/category/engineering/ai-ml/feed/"
+        xmlUrl="https://github.blog/ai-and-ml/feed/"
         htmlUrl="https://github.blog/category/engineering/ai-ml/"
       />
       <outline
@@ -43,7 +43,7 @@
         text="Anthropic News"
         title="Anthropic News (Claude Code)"
         type="rss"
-        xmlUrl="https://www.anthropic.com/news/rss.xml"
+        xmlUrl="https://www.claude.com/blog/rss.xml"
         htmlUrl="https://www.anthropic.com/news"
       />
     </outline>
