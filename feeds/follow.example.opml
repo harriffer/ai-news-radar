@@ -40,13 +40,6 @@
         htmlUrl="https://github.blog/changelog/"
       />
       <outline
-        text="Anthropic News"
-        title="Anthropic News (Claude Code)"
-        type="rss"
-        xmlUrl="https://www.claude.com/blog/rss.xml"
-        htmlUrl="https://www.anthropic.com/news"
-      />
-    </outline>
 
     <!-- ===== 核心目标：ComfyUI ===== -->
     <outline text="🎨 ComfyUI &amp; AI Image">
@@ -180,6 +173,45 @@
         type="rss"
         xmlUrl="https://www.infoq.cn/feed"
         htmlUrl="https://www.infoq.cn/"
+      />
+    </outline>
+
+  </body>
+</opml>
+
+    <!-- ===== Reddit 社区 ===== -->
+    <outline text="👥 Reddit Communities">
+      <outline
+        text="r/LocalLLaMA"
+        title="Reddit r/LocalLLaMA"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss"
+        htmlUrl="https://www.reddit.com/r/LocalLLaMA/"
+      />
+      <outline
+        text="r/StableDiffusion"
+        title="Reddit r/StableDiffusion"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/StableDiffusion/.rss"
+        htmlUrl="https://www.reddit.com/r/StableDiffusion/"
+      />
+    </outline>
+
+    <!-- ===== GitHub Trending ===== -->
+    <outline text="📈 GitHub Trending">
+      <outline
+        text="GitHub Trending Daily"
+        title="GitHub Trending Daily"
+        type="rss"
+        xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"
+        htmlUrl="https://github.com/trending"
+      />
+      <outline
+        text="GitHub Trending Weekly"
+        title="GitHub Trending Weekly"
+        type="rss"
+        xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml"
+        htmlUrl="https://github.com/trending"
       />
     </outline>
 
