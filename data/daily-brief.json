@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T03:42:34.190985Z",
+  "generated_at": "2026-06-26T05:37:52.148412Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1538-217c-b178-2e08a2c60b7f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1538-217c-b178-2e08a2c60b7f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "40ca5af622bf6173b1b7fa83bbf89b8725a0ac4b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1538-217c-b178-2e08a2c60b7f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b7139c185666ab7dc5ece96a33bd49a067736aba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1445-3022-8571-0e3f31828201&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "40ca5af622bf6173b1b7fa83bbf89b8725a0ac4b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1538-217c-b178-2e08a2c60b7f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
@@ -183,15 +192,6 @@
           "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b7139c185666ab7dc5ece96a33bd49a067736aba",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1445-3022-8571-0e3f31828201&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T04:45:03.975875Z",
-      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "earliest_at": "2026-06-25T08:22:38.104733Z",
+      "latest_at": "2026-06-26T05:37:52.148412Z",
       "primary_item": {
-        "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
+        "id": "40ca5af622bf6173b1b7fa83bbf89b8725a0ac4b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1538-217c-b178-2e08a2c60b7f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8036,
+        "recency": 0.7235,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,82 +288,21 @@
       }
     },
     {
-      "story_id": "story_cc97c2cd299c",
-      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7491,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T21:41:18Z",
-      "latest_at": "2026-06-25T21:41:18Z",
-      "primary_item": {
-        "id": "21911b12003d8f4100254e885cc65209d21983f8",
-        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_36a2a5f915d1",
-      "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-      "url": "https://www.aibase.com/news/29180",
-      "primary_url": "https://www.aibase.com/news/29180",
+      "story_id": "story_f50c009bf1f4",
+      "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+      "url": "https://www.aibase.com/news/29192",
+      "primary_url": "https://www.aibase.com/news/29192",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-          "url": "https://www.aibase.com/news/29180",
+          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+          "url": "https://www.aibase.com/news/29192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:42:34.190985Z"
+          "published_at": "2026-06-26T05:37:52.148412Z"
         }
       ],
       "source_count": 1,
@@ -372,13 +311,13 @@
       ],
       "items": [
         {
-          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-          "url": "https://www.aibase.com/news/29180",
+          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+          "url": "https://www.aibase.com/news/29192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:42:34.190985Z"
+          "published_at": "2026-06-26T05:37:52.148412Z"
         }
       ],
       "item_count": 1,
@@ -398,12 +337,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:42:34.190985Z",
-      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "earliest_at": "2026-06-26T05:37:52.148412Z",
+      "latest_at": "2026-06-26T05:37:52.148412Z",
       "primary_item": {
-        "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-        "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-        "url": "https://www.aibase.com/news/29180",
+        "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+        "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+        "url": "https://www.aibase.com/news/29192",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -443,14 +382,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.8501,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,14 +442,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -529,21 +468,21 @@
       }
     },
     {
-      "story_id": "story_0dfa7e4bd23b",
-      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "story_id": "story_c6eeafaa2096",
+      "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+      "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+      "primary_url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-25T18:29:01Z"
         }
       ],
       "source_count": 1,
@@ -552,25 +491,25 @@
       ],
       "items": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-25T18:29:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7418,
+        "ai_relevance": 0.87,
+        "recency": 0.5355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -579,28 +518,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T21:30:42Z",
-      "latest_at": "2026-06-25T21:30:42Z",
+      "earliest_at": "2026-06-25T18:29:01Z",
+      "latest_at": "2026-06-25T18:29:01Z",
       "primary_item": {
-        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+        "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+        "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+        "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_7276f0857e9b",
-      "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-      "url": "https://www.aibase.com/news/29188",
-      "primary_url": "https://www.aibase.com/news/29188",
+      "story_id": "story_36a2a5f915d1",
+      "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+      "url": "https://www.aibase.com/news/29180",
+      "primary_url": "https://www.aibase.com/news/29180",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-          "url": "https://www.aibase.com/news/29188",
+          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+          "url": "https://www.aibase.com/news/29180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -613,9 +552,9 @@
       ],
       "items": [
         {
-          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-          "url": "https://www.aibase.com/news/29188",
+          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+          "url": "https://www.aibase.com/news/29180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -624,14 +563,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,11 +581,71 @@
       "earliest_at": "2026-06-26T03:42:34.190985Z",
       "latest_at": "2026-06-26T03:42:34.190985Z",
       "primary_item": {
-        "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-        "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-        "url": "https://www.aibase.com/news/29188",
+        "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+        "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+        "url": "https://www.aibase.com/news/29180",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5912e7724b2c",
+      "title": "AI HOT 日报 · 2026-06-26 — Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
+      "url": "https://aihot.virxact.com/daily/2026-06-26",
+      "primary_url": "https://aihot.virxact.com/daily/2026-06-26",
+      "source": "AI HOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4944c252d96ebf160bd356bfa5639538c114486",
+          "title": "AI HOT 日报 · 2026-06-26 — Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
+          "url": "https://aihot.virxact.com/daily/2026-06-26",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T00:00:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI HOT"
+      ],
+      "items": [
+        {
+          "id": "e4944c252d96ebf160bd356bfa5639538c114486",
+          "title": "AI HOT 日报 · 2026-06-26 — Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
+          "url": "https://aihot.virxact.com/daily/2026-06-26",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T00:00:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7657,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T00:00:31Z",
+      "latest_at": "2026-06-26T00:00:31Z",
+      "primary_item": {
+        "id": "e4944c252d96ebf160bd356bfa5639538c114486",
+        "title": "AI HOT 日报 · 2026-06-26 — Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
+        "url": "https://aihot.virxact.com/daily/2026-06-26",
+        "source": "AI HOT",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -684,14 +683,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,21 +743,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5121,
+        "recency": 0.432,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:00Z",
       "latest_at": "2026-06-25T16:00:00Z",
@@ -805,20 +803,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.6723,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T21:45:57Z",
       "latest_at": "2026-06-25T21:45:57Z",
@@ -865,20 +862,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7311,
+        "recency": 0.651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T21:15:18Z",
       "latest_at": "2026-06-25T21:15:18Z",
@@ -891,17 +887,78 @@
       }
     },
     {
-      "story_id": "story_f728db756996",
-      "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-      "url": "https://www.aibase.com/news/29172",
-      "primary_url": "https://www.aibase.com/news/29172",
+      "story_id": "story_43bc8b14a9a3",
+      "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+      "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "primary_url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.527,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T18:16:46Z",
+      "latest_at": "2026-06-25T18:16:46Z",
+      "primary_item": {
+        "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+        "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+        "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7276f0857e9b",
+      "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+      "url": "https://www.aibase.com/news/29188",
+      "primary_url": "https://www.aibase.com/news/29188",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7692844f78592caf48821ea762441602eb38ddb9",
-          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-          "url": "https://www.aibase.com/news/29172",
+          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+          "url": "https://www.aibase.com/news/29188",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -914,9 +971,9 @@
       ],
       "items": [
         {
-          "id": "7692844f78592caf48821ea762441602eb38ddb9",
-          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-          "url": "https://www.aibase.com/news/29172",
+          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+          "url": "https://www.aibase.com/news/29188",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -925,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,9 +1000,9 @@
       "earliest_at": "2026-06-26T03:42:34.190985Z",
       "latest_at": "2026-06-26T03:42:34.190985Z",
       "primary_item": {
-        "id": "7692844f78592caf48821ea762441602eb38ddb9",
-        "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-        "url": "https://www.aibase.com/news/29172",
+        "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+        "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+        "url": "https://www.aibase.com/news/29188",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -985,14 +1042,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6448,
+        "recency": 0.5647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1044,14 +1101,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6316,
+        "recency": 0.5515,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,14 +1160,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6303,
+        "recency": 0.5503,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,14 +1219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6246,
+        "recency": 0.5445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,20 +1278,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7253,
+        "recency": 0.6452,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T21:06:58Z",
       "latest_at": "2026-06-25T21:06:58Z",
@@ -1247,78 +1303,17 @@
       }
     },
     {
-      "story_id": "story_c6eeafaa2096",
-      "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-      "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "primary_url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6156,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T18:29:01Z",
-      "latest_at": "2026-06-25T18:29:01Z",
-      "primary_item": {
-        "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-        "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-        "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2df39f94801f",
-      "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-      "url": "https://www.aibase.com/news/29183",
-      "primary_url": "https://www.aibase.com/news/29183",
+      "story_id": "story_f728db756996",
+      "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+      "url": "https://www.aibase.com/news/29172",
+      "primary_url": "https://www.aibase.com/news/29172",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-          "url": "https://www.aibase.com/news/29183",
+          "id": "7692844f78592caf48821ea762441602eb38ddb9",
+          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+          "url": "https://www.aibase.com/news/29172",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1331,9 +1326,9 @@
       ],
       "items": [
         {
-          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-          "url": "https://www.aibase.com/news/29183",
+          "id": "7692844f78592caf48821ea762441602eb38ddb9",
+          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+          "url": "https://www.aibase.com/news/29172",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1342,14 +1337,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1360,9 +1355,9 @@
       "earliest_at": "2026-06-26T03:42:34.190985Z",
       "latest_at": "2026-06-26T03:42:34.190985Z",
       "primary_item": {
-        "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-        "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-        "url": "https://www.aibase.com/news/29183",
+        "id": "7692844f78592caf48821ea762441602eb38ddb9",
+        "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+        "url": "https://www.aibase.com/news/29172",
         "source": "AIbase",
         "source_name": "AIbase"
       }
