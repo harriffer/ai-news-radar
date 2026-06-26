@@ -1,0 +1,1371 @@
+{
+  "generated_at": "2026-06-26T03:42:34.190985Z",
+  "window_hours": 24,
+  "total_items": 20,
+  "items": [
+    {
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "daa95868987864e4d5c3c893ef7714d86fbe50af",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0952-3947-a148-22942d3b2145&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "36db1dfdb5412d130e4622b4321f75a5e5d59572",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0825-0457-a33e-4afa3725c7fe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "63e42d3209ac8098fffa325e2b71234d09eba025",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0657-209f-98ee-f6daec4a5698&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f3527ce64a5adb2c70331c3bb679c4a971605b4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0433-149b-a1ec-54ed3311d0a3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "88cac558c898a7c5e0ba1b15dbf1d751d1488f29",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0224-322f-81d1-08fae4f33114&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "c32d58d2d5411410e552bf3562fe920b1392c4c6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2336-31a9-91bf-8e62c879480c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "63af65e942faa74efaa2ff875212695942464762",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "b7139c185666ab7dc5ece96a33bd49a067736aba",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1445-3022-8571-0e3f31828201&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "source_count": 10,
+      "source_names": [
+        "Page Fallback"
+      ],
+      "items": [
+        {
+          "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "daa95868987864e4d5c3c893ef7714d86fbe50af",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0952-3947-a148-22942d3b2145&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "36db1dfdb5412d130e4622b4321f75a5e5d59572",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0825-0457-a33e-4afa3725c7fe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "63e42d3209ac8098fffa325e2b71234d09eba025",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0657-209f-98ee-f6daec4a5698&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f3527ce64a5adb2c70331c3bb679c4a971605b4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0433-149b-a1ec-54ed3311d0a3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "88cac558c898a7c5e0ba1b15dbf1d751d1488f29",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0224-322f-81d1-08fae4f33114&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "c32d58d2d5411410e552bf3562fe920b1392c4c6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2336-31a9-91bf-8e62c879480c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "63af65e942faa74efaa2ff875212695942464762",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "b7139c185666ab7dc5ece96a33bd49a067736aba",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1445-3022-8571-0e3f31828201&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T04:45:03.975875Z",
+      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "primary_item": {
+        "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b6ca7e75baf6",
+      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8036,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T22:59:45Z",
+      "latest_at": "2026-06-25T22:59:45Z",
+      "primary_item": {
+        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cc97c2cd299c",
+      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21911b12003d8f4100254e885cc65209d21983f8",
+          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:41:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "21911b12003d8f4100254e885cc65209d21983f8",
+          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:41:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7491,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:41:18Z",
+      "latest_at": "2026-06-25T21:41:18Z",
+      "primary_item": {
+        "id": "21911b12003d8f4100254e885cc65209d21983f8",
+        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_36a2a5f915d1",
+      "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+      "url": "https://www.aibase.com/news/29180",
+      "primary_url": "https://www.aibase.com/news/29180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+          "url": "https://www.aibase.com/news/29180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+          "url": "https://www.aibase.com/news/29180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "primary_item": {
+        "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
+        "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
+        "url": "https://www.aibase.com/news/29180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4baaebd0e477",
+      "title": "Claude Code 6个实用Hook玩法",
+      "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
+      "primary_url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
+          "title": "Claude Code 6个实用Hook玩法",
+          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T02:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
+          "title": "Claude Code 6个实用Hook玩法",
+          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T02:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9302,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T02:02:00Z",
+      "latest_at": "2026-06-26T02:02:00Z",
+      "primary_item": {
+        "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
+        "title": "Claude Code 6个实用Hook玩法",
+        "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7c6b9936b816",
+      "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+      "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
+      "primary_url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
+          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T01:26:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
+          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T01:26:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9054,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T01:26:23Z",
+      "latest_at": "2026-06-26T01:26:23Z",
+      "primary_item": {
+        "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
+        "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+        "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0dfa7e4bd23b",
+      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7418,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:30:42Z",
+      "latest_at": "2026-06-25T21:30:42Z",
+      "primary_item": {
+        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7276f0857e9b",
+      "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+      "url": "https://www.aibase.com/news/29188",
+      "primary_url": "https://www.aibase.com/news/29188",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+          "url": "https://www.aibase.com/news/29188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+          "url": "https://www.aibase.com/news/29188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "primary_item": {
+        "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
+        "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
+        "url": "https://www.aibase.com/news/29188",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_81aa61a2cba5",
+      "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+      "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+      "primary_url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T23:29:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T23:29:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8245,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T23:29:52Z",
+      "latest_at": "2026-06-25T23:29:52Z",
+      "primary_item": {
+        "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+        "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+        "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dd1b8c72044f",
+      "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
+          "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
+          "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5121,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T16:00:00Z",
+      "latest_at": "2026-06-25T16:00:00Z",
+      "primary_item": {
+        "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
+        "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
+        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4bd28bbdd1b8",
+      "title": "Claude Code v2.1.193 发布",
+      "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+      "primary_url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
+          "title": "Claude Code v2.1.193 发布",
+          "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:45:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
+          "title": "Claude Code v2.1.193 发布",
+          "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:45:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7523,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:45:57Z",
+      "latest_at": "2026-06-25T21:45:57Z",
+      "primary_item": {
+        "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
+        "title": "Claude Code v2.1.193 发布",
+        "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_957dd233b432",
+      "title": "Codex 在 ChatGPT 移动 App 正式可用",
+      "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+      "primary_url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273190afa59012ed7ce946e41f39475335b63056",
+          "title": "Codex 在 ChatGPT 移动 App 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:15:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "273190afa59012ed7ce946e41f39475335b63056",
+          "title": "Codex 在 ChatGPT 移动 App 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:15:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7311,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:15:18Z",
+      "latest_at": "2026-06-25T21:15:18Z",
+      "primary_item": {
+        "id": "273190afa59012ed7ce946e41f39475335b63056",
+        "title": "Codex 在 ChatGPT 移动 App 正式可用",
+        "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f728db756996",
+      "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+      "url": "https://www.aibase.com/news/29172",
+      "primary_url": "https://www.aibase.com/news/29172",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7692844f78592caf48821ea762441602eb38ddb9",
+          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+          "url": "https://www.aibase.com/news/29172",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7692844f78592caf48821ea762441602eb38ddb9",
+          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+          "url": "https://www.aibase.com/news/29172",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "primary_item": {
+        "id": "7692844f78592caf48821ea762441602eb38ddb9",
+        "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
+        "url": "https://www.aibase.com/news/29172",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_70b0c1b3ab8f",
+      "title": "Midjourney 预览 V8.2 并加速草稿模式",
+      "url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue",
+      "primary_url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue",
+      "source": "X：Midjourney (@midjourney)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cde6f1dc39d34733ad243c05ff5660ebafab6978",
+          "title": "Midjourney 预览 V8.2 并加速草稿模式",
+          "url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue",
+          "source": "X：Midjourney (@midjourney)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T19:11:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Midjourney (@midjourney)"
+      ],
+      "items": [
+        {
+          "id": "cde6f1dc39d34733ad243c05ff5660ebafab6978",
+          "title": "Midjourney 预览 V8.2 并加速草稿模式",
+          "url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue",
+          "source": "X：Midjourney (@midjourney)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T19:11:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6448,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T19:11:05Z",
+      "latest_at": "2026-06-25T19:11:05Z",
+      "primary_item": {
+        "id": "cde6f1dc39d34733ad243c05ff5660ebafab6978",
+        "title": "Midjourney 预览 V8.2 并加速草稿模式",
+        "url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue",
+        "source": "X：Midjourney (@midjourney)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c05ce068369",
+      "title": "IBM 首度推出亚纳米级芯片技术",
+      "url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw",
+      "primary_url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "67e6cce2d827112abdd5fac8f89b2e7f14031dd6",
+          "title": "IBM 首度推出亚纳米级芯片技术",
+          "url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:52:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "67e6cce2d827112abdd5fac8f89b2e7f14031dd6",
+          "title": "IBM 首度推出亚纳米级芯片技术",
+          "url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:52:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6316,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T18:52:05Z",
+      "latest_at": "2026-06-25T18:52:05Z",
+      "primary_item": {
+        "id": "67e6cce2d827112abdd5fac8f89b2e7f14031dd6",
+        "title": "IBM 首度推出亚纳米级芯片技术",
+        "url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7622e6e62ca8",
+      "title": "Midjourney V8.1 草稿模式新增随机风格功能",
+      "url": "https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m",
+      "primary_url": "https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "444f1167b8b56ccf947229da2dc638d2b7dea123",
+          "title": "Midjourney V8.1 草稿模式新增随机风格功能",
+          "url": "https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:50:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Midjourney：Updates（RSS）"
+      ],
+      "items": [
+        {
+          "id": "444f1167b8b56ccf947229da2dc638d2b7dea123",
+          "title": "Midjourney V8.1 草稿模式新增随机风格功能",
+          "url": "https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:50:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T18:50:16Z",
+      "latest_at": "2026-06-25T18:50:16Z",
+      "primary_item": {
+        "id": "444f1167b8b56ccf947229da2dc638d2b7dea123",
+        "title": "Midjourney V8.1 草稿模式新增随机风格功能",
+        "url": "https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_da71440e34d9",
+      "title": "Runway发布Agent 2.0",
+      "url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+      "primary_url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+      "source": "Runway：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d39b92d530374eddc297d48bbdbde62c05577ba6",
+          "title": "Runway发布Agent 2.0",
+          "url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:41:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Runway：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "d39b92d530374eddc297d48bbdbde62c05577ba6",
+          "title": "Runway发布Agent 2.0",
+          "url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T18:41:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6246,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T18:41:58Z",
+      "latest_at": "2026-06-25T18:41:58Z",
+      "primary_item": {
+        "id": "d39b92d530374eddc297d48bbdbde62c05577ba6",
+        "title": "Runway发布Agent 2.0",
+        "url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+        "source": "Runway：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a8b089c1f0e",
+      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+      "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+      "primary_url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:06:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:06:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7253,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:06:58Z",
+      "latest_at": "2026-06-25T21:06:58Z",
+      "primary_item": {
+        "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+        "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+        "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c6eeafaa2096",
+      "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+      "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+      "primary_url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:29:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:29:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6156,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T18:29:01Z",
+      "latest_at": "2026-06-25T18:29:01Z",
+      "primary_item": {
+        "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
+        "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
+        "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2df39f94801f",
+      "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
+      "url": "https://www.aibase.com/news/29183",
+      "primary_url": "https://www.aibase.com/news/29183",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
+          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
+          "url": "https://www.aibase.com/news/29183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
+          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
+          "url": "https://www.aibase.com/news/29183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T03:42:34.190985Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "latest_at": "2026-06-26T03:42:34.190985Z",
+      "primary_item": {
+        "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
+        "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
+        "url": "https://www.aibase.com/news/29183",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI News Radar - AI热点日报专属信源（Hermes/Codex/ComfyUI/本地大模型）</title>
+  </head>
+  <body>
+
+    <!-- ===== 核心目标：Hermes Agent ===== -->
+    <outline text="🤖 Hermes Agent">
+      <outline
+        text="Hermes Agent Releases"
+        title="Hermes Agent Releases"
+        type="rss"
+        xmlUrl="https://github.com/nousresearch/hermes/releases.atom"
+        htmlUrl="https://github.com/nousresearch/hermes"
+      />
+    </outline>
+
+    <!-- ===== 核心目标：Codex / AI Coding ===== -->
+    <outline text="💻 Codex &amp; AI Coding">
+      <outline
+        text="OpenAI News"
+        title="OpenAI News"
+        type="rss"
+        xmlUrl="https://openai.com/news/rss.xml"
+        htmlUrl="https://openai.com/news"
+      />
+      <outline
+        text="GitHub AI &amp; ML Blog"
+        title="GitHub AI &amp; ML"
+        type="rss"
+        xmlUrl="https://github.blog/category/engineering/ai-ml/feed/"
+        htmlUrl="https://github.blog/category/engineering/ai-ml/"
+      />
+      <outline
+        text="GitHub Changelog"
+        title="GitHub Changelog"
+        type="rss"
+        xmlUrl="https://github.blog/changelog/feed/"
+        htmlUrl="https://github.blog/changelog/"
+      />
+      <outline
+        text="Anthropic News"
+        title="Anthropic News (Claude Code)"
+        type="rss"
+        xmlUrl="https://www.anthropic.com/news/rss.xml"
+        htmlUrl="https://www.anthropic.com/news"
+      />
+    </outline>
+
+    <!-- ===== 核心目标：ComfyUI ===== -->
+    <outline text="🎨 ComfyUI &amp; AI Image">
+      <outline
+        text="ComfyUI Releases"
+        title="ComfyUI Releases"
+        type="rss"
+        xmlUrl="https://github.com/comfyanonymous/ComfyUI/releases.atom"
+        htmlUrl="https://github.com/comfyanonymous/ComfyUI"
+      />
+      <outline
+        text="ComfyUI Manager Releases"
+        title="ComfyUI Manager"
+        type="rss"
+        xmlUrl="https://github.com/ltdrdata/ComfyUI-Manager/releases.atom"
+        htmlUrl="https://github.com/ltdrdata/ComfyUI-Manager"
+      />
+      <outline
+        text="NVIDIA Generative AI Blog"
+        title="NVIDIA Generative AI"
+        type="rss"
+        xmlUrl="https://developer.nvidia.com/blog/category/generative-ai/feed/"
+        htmlUrl="https://developer.nvidia.com/blog/category/generative-ai/"
+      />
+    </outline>
+
+    <!-- ===== 开源本地大模型部署 ===== -->
+    <outline text="🏠 Open-Source LLM Local Deploy">
+      <outline
+        text="Ollama Releases"
+        title="Ollama"
+        type="rss"
+        xmlUrl="https://github.com/ollama/ollama/releases.atom"
+        htmlUrl="https://github.com/ollama/ollama"
+      />
+      <outline
+        text="llama.cpp Releases"
+        title="llama.cpp"
+        type="rss"
+        xmlUrl="https://github.com/ggerganov/llama.cpp/releases.atom"
+        htmlUrl="https://github.com/ggerganov/llama.cpp"
+      />
+      <outline
+        text="LM Studio Releases"
+        title="LM Studio"
+        type="rss"
+        xmlUrl="https://github.com/lmstudio-ai/lms/releases.atom"
+        htmlUrl="https://github.com/lmstudio-ai/lms"
+      />
+      <outline
+        text="vLLM Releases"
+        title="vLLM"
+        type="rss"
+        xmlUrl="https://github.com/vllm-project/vllm/releases.atom"
+        htmlUrl="https://github.com/vllm-project/vllm"
+      />
+      <outline
+        text="Hugging Face Blog"
+        title="Hugging Face Blog"
+        type="rss"
+        xmlUrl="https://huggingface.co/blog/feed.xml"
+        htmlUrl="https://huggingface.co/blog"
+      />
+      <outline
+        text="Hugging Face Daily Papers"
+        title="Hugging Face Daily Papers"
+        type="rss"
+        xmlUrl="https://huggingface.co/papers/feed.xml"
+        htmlUrl="https://huggingface.co/papers"
+      />
+    </outline>
+
+    <!-- ===== 综合AI资讯 ===== -->
+    <outline text="📡 AI News &amp; Aggregators">
+      <outline
+        text="Google DeepMind Blog"
+        title="Google DeepMind"
+        type="rss"
+        xmlUrl="https://deepmind.google/blog/rss.xml"
+        htmlUrl="https://deepmind.google/discover/blog/"
+      />
+      <outline
+        text="Simon Willison"
+        title="Simon Willison (LLM &amp; tools)"
+        type="rss"
+        xmlUrl="https://simonwillison.net/atom/everything/"
+        htmlUrl="https://simonwillison.net/"
+      />
+      <outline
+        text="The Decoder"
+        title="The Decoder AI News"
+        type="rss"
+        xmlUrl="https://the-decoder.com/feed/"
+        htmlUrl="https://the-decoder.com/"
+      />
+      <outline
+        text="TechCrunch AI"
+        title="TechCrunch AI"
+        type="rss"
+        xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/"
+        htmlUrl="https://techcrunch.com/category/artificial-intelligence/"
+      />
+      <outline
+        text="宝玉"
+        title="宝玉 AI 博客"
+        type="rss"
+        xmlUrl="https://baoyu.io/feed.xml"
+        htmlUrl="https://baoyu.io/"
+      />
+    </outline>
+
+    <!-- ===== 中文开发者社区 ===== -->
+    <outline text="🇨🇳 Chinese Community">
+      <outline
+        text="机器之心"
+        title="机器之心 AI"
+        type="rss"
+        xmlUrl="https://www.jiqizhixin.com/rss"
+        htmlUrl="https://www.jiqizhixin.com/"
+      />
+      <outline
+        text="量子位"
+        title="量子位 AI"
+        type="rss"
+        xmlUrl="https://www.qbitai.com/feed"
+        htmlUrl="https://www.qbitai.com/"
+      />
+      <outline
+        text="InfoQ CN"
+        title="InfoQ China"
+        type="rss"
+        xmlUrl="https://www.infoq.cn/feed"
+        htmlUrl="https://www.infoq.cn/"
+      />
+    </outline>
+
+  </body>
+</opml>
